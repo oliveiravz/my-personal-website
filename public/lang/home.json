@@ -1,0 +1,98 @@
+{
+    "pt-br": {
+        "titles": {
+            "sobre": "SOBRE",
+            "experiencia": "EXPERIÊNCIA"
+        },
+        "sobre": [
+            "Como Desenvolvedor de Software com foco em desenvolvimento fullstack, meu foco é arquitetar aplicações seguras e performáticas que sejam escaláveis, para que o usuário tenha uma experiência eficiente.",
+            "Sou programador sênior na Telecontrol, onde entrei como estagiário em 2021 e estou desde então. Participei em projetos de grande escala para empresas como MAKITA e BLACKSKULL, utilizando tecnologias como PHP, Laravel, JavaScript, REST API's e PostgreSQL. Busquei implantar testes unitários na cultura da empresa, com o intuito de melhorar os deploys, onde tive resultados animadores.",
+            "Atualmente procuro aprimorar minhas habilidades em outras linguaguens backends como Java e Python e também no frontend como Vue.js."
+        ],
+        "experiencia": [
+            {
+                "periodo": "Mar 2024 — Presente",
+                "cargo": "Desenvolvedor Pleno • Telecontrol",
+                "local": "Híbrido • Marília, SP",
+                "descricao": "Arquitetura e desenvolvimento de soluções fullstack críticas, focando em performance de banco de dados e escalabilidade do sistema."
+            },
+            {
+                "periodo": "Jun 2022 — Mar 2024",
+                "cargo": "Desenvolvedor Júnior • Telecontrol",
+                "local": "Híbrido • Marília, SP",
+                "lista": [
+                    "Desenvolvimento web fullstack com PHP e jQuery.",
+                    "Manutenção e otimização de queries em PostgreSQL.",
+                    "Colaboração direta no ciclo de vida de novas funcionalidades."
+                ]
+            },
+            {
+                "periodo": "Out 2021 — Jun 2022",
+                "cargo": "Desenvolvedor Trainee • Telecontrol",
+                "local": "Presencial • Marília, SP",
+                "descricao": "Início da trajetória profissional com foco em aprendizado de padrões de projeto e versionamento de código."
+            }
+        ],
+        "contato": {
+            "texto": "Estou aberto a novas oportunidades. Manda um alô!",
+            "botao": "Diga Olá"
+        },
+        "hero": {
+            "name": "João Victor",
+            "role": "Software Developer"
+        },
+        "nav": {
+            "sobre": "— SOBRE",
+            "carreira": "— CARREIRA",
+            "contato": "— CONTATO"
+        }
+    },
+    "en-us": {
+        "titles": {
+            "sobre": "ABOUT",
+            "experiencia": "EXPERIENCE"
+        },
+        "sobre": [
+            "As a Software Developer focused on fullstack development, my goal is to design secure, high-performance, and scalable applications, ensuring an efficient user experience.",
+            "I am a senior developer at Telecontrol, where I joined as an intern in 2021 and have been working ever since. I have participated in large-scale projects for companies such as MAKITA and BLACKSKULL, using technologies like PHP, Laravel, JavaScript, REST APIs, and PostgreSQL. I also sought to introduce unit testing into the company’s culture to improve deployment processes, achieving encouraging results.",
+            "Currently, I am looking to enhance my skills in other backend languages such as Java and Python, as well as frontend technologies like Vue.js."
+        ],
+        "experiencia": [
+            {
+                "periodo": "Mar 2024 — Present",
+                "cargo": "Mid-Level Developer • Telecontrol",
+                "local": "Hybrid • Marília, SP",
+                "descricao": "Architecture and development of critical fullstack solutions, focusing on database performance and system scalability."
+            },
+            {
+                "periodo": "Jun 2022 — Mar 2024",
+                "cargo": "Junior Developer • Telecontrol",
+                "local": "Hybrid • Marília, SP",
+                "lista": [
+                    "Fullstack web development with PHP and jQuery.",
+                    "Maintenance and optimization of PostgreSQL queries.",
+                    "Direct collaboration throughout the lifecycle of new features."
+                ]
+            },
+            {
+                "periodo": "Oct 2021 — Jun 2022",
+                "cargo": "Trainee Developer • Telecontrol",
+                "local": "On-site • Marília, SP",
+                "descricao": "Start of the professional journey with a focus on learning design patterns and code versioning."
+            }
+        ],
+        "contato": {
+            "texto": "I am open to new opportunities. Feel free to reach out!",
+            "botao": "Say Hello"
+        },
+        "hero": {
+            "name": "João Victor",
+            "role": "Software Developer"
+        },
+        "nav": {
+            "sobre": "— ABOUT",
+            "carreira": "— EXPERIENCE",
+            "contato": "— CONTACT"
+        }
+    }
+}
