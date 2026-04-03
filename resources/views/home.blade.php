@@ -24,6 +24,8 @@
 
                 <div class="d-flex flex-wrap gap-2 mt-3">
                     <span class="badge-tech">PHP</span>
+                    <span class="badge-tech">jQuery</span>
+                    <span class="badge-tech">PHPUnit</span>
                     <span class="badge-tech">Git</span>
                     <span class="badge-tech">PostgreSQL</span>
                     <span class="badge-tech">Laravel</span>
@@ -85,7 +87,7 @@
 <section id="contato" class="py-5 mb-5 d-flex flex-column align-items-center text-center">
     <p data-i18n="contato-texto" class="mb-3"></p>
 
-    <a href="mailto:jaovictor.mota@gmail.com" class="btn btn-small btn-outline-info" data-i18n="contato-botao"></a>
+    <a href="mailto:jaovictor.mota@gmail.com" class="btn btn-small btn-outline-secondary btn-block" data-i18n="contato-botao"></a>
 </section>
 
 @endsection

@@ -45,6 +45,9 @@
                 <div>
                     <div class="mt-5 d-none d-lg-block">
                         <div>
+                            <img src="https://github.com/oliveiravz.png" alt="Profile"
+                                class="mb-3 rounded-circle mx-auto"
+                                style="width: 200px; height: 200px; object-fit: cover;">
                             <h1 data-i18n="hero-name"></h1>
                             <span data-i18n="hero-role"></span>
                         </div>
